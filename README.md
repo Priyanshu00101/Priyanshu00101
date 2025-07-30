@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshu00101
 - 👀 I’m interested in capturing the ability to enhance my skills
-- 🌱 I’m currently learning java DSA
+- 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on Data Structure 
 - 📫 How to reach me just think about it and tap a code'
 - 😄 Pronouns: kanhaiya

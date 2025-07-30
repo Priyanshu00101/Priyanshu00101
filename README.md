@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanshu00101
+- 👋 Hi, I’m Priyanshu gupta
 - 👀 I’m interested in capturing the ability to enhance my skills
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on Data Structure 
